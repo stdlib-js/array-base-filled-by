@@ -1,0 +1,36 @@
+{
+  "name": "@stdlib/array-base-filled-by",
+  "version": "0.0.0",
+  "description": "Create a filled generic array according to a provided callback function.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/array-base-filled-by.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "data",
+    "structure",
+    "array",
+    "generic",
+    "allocate",
+    "alloc",
+    "fill",
+    "filled",
+    "callback",
+    "map",
+    "foreach"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
