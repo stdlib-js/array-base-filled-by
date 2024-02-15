@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@deno/mod.js';
+import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@v0.2.0-deno/mod.js';
 ```
 
 #### filledBy( len, clbk\[, thisArg] )
@@ -115,7 +115,7 @@ var cnt = ctx.count;
 
 ```javascript
 import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@deno/mod.js';
-import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@deno/mod.js';
+import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@v0.2.0-deno/mod.js';
 
 var out = filledBy( 3, constantFunction( 0.0 ) );
 // returns [ 0.0, 0.0, 0.0 ]
