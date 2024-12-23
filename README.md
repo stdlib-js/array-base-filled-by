@@ -167,6 +167,12 @@ out = filledBy( 3, constantFunction( void 0 ) );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-base/filled`][@stdlib/array/base/filled]</span><span class="delimiter">: </span><span class="description">create a filled generic array.</span>
+
 </section>
 
 <!-- /.related -->
@@ -242,6 +248,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/array-base-filled-by/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-filled-by/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/array/base/filled]: https://github.com/stdlib-js/array-base-filled
+
+<!-- </related-links> -->
 
 </section>
 
