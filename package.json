@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-filled-by",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Create a filled generic array according to a provided callback function.",
   "license": "Apache-2.0",
   "author": {
@@ -38,14 +38,14 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@stdlib/assert-is-array": "^0.2.2",
-    "@stdlib/math-base-special-pow": "^0.3.0",
-    "@stdlib/string-format": "^0.2.2",
-    "@stdlib/utils-constant-function": "^0.2.2",
+    "@stdlib/assert-is-array": "^0.2.3",
+    "@stdlib/math-base-special-pow": "^0.3.1",
+    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/utils-constant-function": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
